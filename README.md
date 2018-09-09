@@ -1,7 +1,7 @@
 # Badge display power supply
-This design is a dual 6V to 18V input to settable 1.5A output switching regulator supply. 
-Main purpose is to power up conference badges in display cases.  
-
+This design is a dual 6V to 18V input to settable 1.5A output switching regulator supply.   
+Main purpose is to power up conference badges in display cases.   
+  
 The output voltage is set by R8 and R10. Pick the proper resistor value based on the table below:
 
 |Rx|output V|Typical use|
@@ -11,10 +11,12 @@ The output voltage is set by R8 and R10. Pick the proper resistor value based on
 |13k|3.3V|LiPo replacement mid charge|
 |14.7k|3V|coin cell replacement|
 
-J1, J2, and J3 are supply side input / output jacks. Cards are designed to be daisy chained between display using 5.5x2.5mm cables
-J4, J5, J6, J7, and J8 are output 1 controlled by R8
-J9, J10, J11, J12, and J13 are output 2 controlled by R10
-Populate connectors based on your needs. 
+**NOTE you MUST remove the battery when using this design as a battery replacement!**
+
+J1, J2, and J3 are supply side input / output jacks. Cards are designed to be daisy chained between display using 5.5x2.5mm cables  
+J4, J5, J6, J7, and J8 are output 1 controlled by R8  
+J9, J10, J11, J12, and J13 are output 2 controlled by R10  
+Populate connectors based on your needs.  
 
 Thinking about making a smaller / cheaper single reg version as well in the future. 
 

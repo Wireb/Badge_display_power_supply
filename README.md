@@ -3,7 +3,9 @@ This design is a dual 6V to 18V input to settable 1.5A output switching regulato
 Main purpose is to power up conference badges in display cases.  
 
 The output voltage is set by R8 and R10. Pick the proper resistor value based on the table below:
+
 |Rx|output V|Typical use|
+| --- | --- | --- |
 |7.68k|5V|USB powered|
 |8.66k|4.5V|LiPo replacement fully / over charged|
 |13k|3.3V|LiPo replacement mid charge|

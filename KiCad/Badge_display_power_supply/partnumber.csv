@@ -1,0 +1,16 @@
+Q, part number, footprint, ref_des
+2, 100k, Resistors_SMD:R_0603, R2 R4
+2, 1uF, Capacitors_SMD:C_0603, C3 C4
+4, 22uF, Capacitors_SMD:C_0805, C1 C5 C2 C6
+2, 40.2k, Resistors_SMD:R_0603, R7 R9
+2, 499, Resistors_SMD:R_0603, R11 R12
+2, 499k, Resistors_SMD:R_0603, R1 R3
+2, 59k, Resistors_SMD:R_0603, R5 R6
+2, 6.5uH, Yuden:Yuden_Inductor_4.9x4.9, L1 L2
+2, 7.68k, Resistors_SMD:R_0603, R8 R10
+2, AP65111, TO_SOT_Packages_SMD:SOT-23-6, U1 U2
+2, LED_red, LEDs:LED_0603, D1 D2
+1, Metroid, PJS-icons:metroid, icon1
+2, PJ-102BH, PJS-pth-parts:CUI_PJ-102BH, J1 J2
+4, SS-52100-001, PJS-pth-parts:Stewart_USB_SS-52100-001, J7 J8 J12 J13
+7, Screw, Degson:DG301-5.002P-12, J3 J6 J5 J4 J11 J10 J9

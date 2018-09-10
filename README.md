@@ -7,9 +7,9 @@ The output voltage is set by R8 and R10. Pick the proper resistor value based on
 |Rx|output V|Typical use|
 | --- | --- | --- |
 |7.68k|5V|USB powered|
-|8.66k|4.5V|LiPo replacement fully / over charged|
+|8.66k|4.5V|3x AA/AAA replacement|
 |13k|3.3V|LiPo replacement mid charge|
-|14.7k|3V|coin cell replacement|
+|14.7k|3V|coin cell or 2x AA/AAA replacement|
 
 **NOTE you MUST remove the battery when using this design as a battery replacement!**
 
